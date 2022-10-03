@@ -63,23 +63,29 @@ git checkout -b add-alonzo-church
 
 ## Make necessary changes and commit those changes
 
-Now open `Contributors.md` file in a text editor, add your name to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
+Now open `Contributers.md` file in a text editor, add your name to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
 
 If you go to the project directory and execute the command `git status`, you'll see there are changes.
 
 Add those changes to the branch you just created using the `git add` command:
 
 ```
-git add Contributors.md
+git add Contributers.md
 ```
 
 Now commit those changes using the `git commit` command:
 
 ```
-git commit -m "Add <your-name> to Contributors list"
+git commit -m "Add <your-name> to Contributers list"
 ```
 
 replacing `<your-name>` with your name.
+
+NOTE : In case terminal shows `Author identity unknown`, use 
+```
+git config user.email "your email" (including quotation marks)
+git config user.name "your name" (including quotation marks)
+```
 
 ## Push changes to GitHub
 
