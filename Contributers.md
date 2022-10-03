@@ -7,7 +7,7 @@
 - [Altamas](https://github.com/Altamas786)
 Griffin Annshual
 - [njaina](https://github.com/njaina)
-
+- [Chetan VJ](https://github.com/ch374nvj)
 
 
 <!-- prettier-ignore-end -->
