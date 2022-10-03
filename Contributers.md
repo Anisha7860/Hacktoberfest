@@ -9,6 +9,6 @@
 Griffin Annshual
 - [njaina](https://github.com/njaina)
 - [Chetan VJ](https://github.com/ch374nvj)
-
+- [Aman Agrawal](https://github.com/amanagr6697)
 
 <!-- prettier-ignore-end -->
