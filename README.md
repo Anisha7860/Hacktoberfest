@@ -1,6 +1,6 @@
 # Hacktoberfest_2022
 
-![image](https://user-images.githubusercontent.com/73793550/193444296-36f5449a-5aeb-4f78-80dc-46fa722d2c4d.png)
+<p align="center">![image](https://user-images.githubusercontent.com/73793550/193444296-36f5449a-5aeb-4f78-80dc-46fa722d2c4d.png)</p>
 
 # What is Hacktoberfest?
 Hacktoberfest is a month-long celebration of open source software run by DigitalOcean in partnership with GitHub and Twilio. Hacktoberfest is open to everyone in our global community!
