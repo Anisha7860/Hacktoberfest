@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 - [Anisha](https://github.com/Anisha7860)
 - [Abhicalyptic](https://github.com/abhicalyptic)
+- [Jayaditya](https://github.com/JayM2510)
 - [Onitsiky](https://github.com/Onitsiky)
 - [Altamas](https://github.com/Altamas786)
 Griffin Annshual
