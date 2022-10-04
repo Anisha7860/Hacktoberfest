@@ -139,7 +139,8 @@ Add appropriate title and description to your pull request explaining your chang
 Click on `Create Pull Request`.
 
 
-Woohoo! You have made a PR to the Awesome-CSS-Projects :boom: . Wait for your submission to be accepted and your PR to be merged.
+Woohoo! You have made a PR to the Hacktoberfest_2022
+ :boom: . Wait for your submission to be accepted and your PR to be merged.
 
 **Thank you for your interest in contributing to our Repo!🏼**
 
