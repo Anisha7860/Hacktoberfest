@@ -1,0 +1,11 @@
+Identification -
+1. k (size) is given
+2. smallest / largest
+
+k + smallest -> max heap
+k + largest -> min heap
+
+Time complexity = nlogk
+
+max heap => priority-queue<int> maxheap
+min heap => priority-queue<int, vector<int>, greater<int>> minheap
