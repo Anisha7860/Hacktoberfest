@@ -1,6 +1,16 @@
-# Hacktoberfest_2022
+#<h1 align="center"> 🎉 Hacktoberfest_2022 🎉
 
-<p align="center"><img src="https://user-images.githubusercontent.com/73793550/193444296-36f5449a-5aeb-4f78-80dc-46fa722d2c4d.png"/></p>
+  ![Hactoberfest](https://img.shields.io/badge/Hactoberfest-%E2%9D%A4-red)    
+![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-orange.svg)
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square) 
+![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red)
+![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
+![Begginers Friendly](https://img.shields.io/badge/Begginer%20Friendly%20-Yes-orange)
+[![GitHub issues](https://img.shields.io/github/issues/Anisha7860/Hacktoberfest_2022)](https://github.com/Anisha7860/Hacktoberfest_2022/issues)
+[![GitHub forks](https://img.shields.io/github/forks/Anisha7860/Hacktoberfest_2022)](https://github.com/Anisha7860/Hacktoberfest_2022/network)
+[![GitHub stars](https://img.shields.io/github/stars/Anisha7860/Hacktoberfest_2022)](https://github.com/Anisha7860/Hacktoberfest_2022/stargazers)
+
+<p align="center"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ds97LCK---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ymlmr15l83rrjq8natft.jpg"/></p>
 
 # What is Hacktoberfest?
 Hacktoberfest is a month-long celebration of open source software run by DigitalOcean in partnership with GitHub and Twilio. Hacktoberfest is open to everyone in our global community!
@@ -36,7 +46,7 @@ where "url you just copied" (without the quotation marks) is the url to this rep
 For example:
 
 ```
-git clone https://github.com/this-is-you/first-contributions.git
+git clone https://github.com/<your-username>/Hacktoberfest_2022.git
 ```
 
 where `this-is-you` is your GitHub username. Here you're copying the contents of the first-contributions repository on GitHub to your computer.
@@ -46,21 +56,44 @@ where `this-is-you` is your GitHub username. Here you're copying the contents of
 Change to the repository directory on your computer (if you are not already there):
 
 ```
-cd first-contributions
+cd Hacktoberfest_2022
 ```
 
 Now create a branch using the `git checkout` command:
 
 ```
-git checkout -b your-new-branch-name
+git checkout -b <your-new-branch-name>
 ```
 
 For example:
 
 ```
 git checkout -b add-alonzo-church
+  
 ```
 
+Add a reference(remote) to the original repository.
+
+```
+ git remote add upstream https://github.com/Anisha7860/Hacktoberfest_2022.git
+```
+
+Check the remotes for this repository.
+
+```
+git remote -v
+```
+
+Always take a pull from the upstream repository to your master branch to keep it at par with the main project(updated repository).
+
+```
+git pull upstream main
+```
+
+
+ Perfom your desired changes to the code base.
+> 1. create a folder and add all code in that folder only.
+> 2. create a demo folder inside "Your Project" and add a gif of your project named demo.gif (OPtional)
 ## Make necessary changes and commit those changes
 
 Now open `Contributers.md` file in a text editor, add your name to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
@@ -101,12 +134,26 @@ replacing `<add-your-branch-name>` with the name of the branch you created earli
 
 If you go to your repository on GitHub, you'll see a `Compare & pull request` button. Click on that button.
 
-Now submit the pull request.
+Add appropriate title and description to your pull request explaining your changes and efforts done.
+
+Click on `Create Pull Request`.
+
+
+Woohoo! You have made a PR to the Hacktoberfest_2022
+ :boom: . Wait for your submission to be accepted and your PR to be merged.
+
+**Thank you for your interest in contributing to our Repo!🏼**
+
+
 
 Soon I'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
 
 ## Where to go from here?
 
 Congrats! You just completed the standard _fork -> clone -> edit -> pull request_ workflow that you'll encounter often as a contributor!
+
+**Kudos to you🎈**
+
+**Best of luck 👍😊**
 
 Celebrate your contribution and share it with your friends and followers.
