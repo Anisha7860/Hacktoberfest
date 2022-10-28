@@ -2,6 +2,7 @@ public class Tower_of_hanoi {
     public static void main(String[] args) {
         int nDisks = 3;
         doTowers(nDisks, 'A', 'B', 'C');
+
     }
 
     public static void doTowers(int topN, char from, char inter, char to) {
